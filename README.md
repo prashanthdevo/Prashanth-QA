@@ -6,7 +6,7 @@ I am a quality-driven Automation Engineer with 3+ years of experience building s
 ---
 
 ### 🛠️ Tech Stack & Skills
-* **Languages:** Python, SQL (Advanced), JavaScript
+* **Languages:** Python, SQL (Advanced)
 * **Automation:** Playwright, Pytest, Page Object Model (POM)
 * **Testing:** API Testing (Postman/Requests), Mobile Testing, Manual Testing
 * **CI/CD & Tools:** GitHub Actions, Jira, Jenkins, Git
